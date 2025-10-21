@@ -1,5 +1,8 @@
 # Code for Golay Metalens Project
 
+## Paper related to this code
+*A Golay metalens for long-range, large-aperture thermal imaging via sparse-aperture computational imaging*, **Nature Communications**, [https://doi.org/10.1038/s41467-025-65188-y](https://doi.org/10.1038/s41467-025-65188-y)
+
 ## Getting started
 
 The code provided in the folder demonstrates the generation of the Golay metalens aperture and phase information, as well as the wave propagation simulations used in this study. This file shows the instructions on how to run the code. 
@@ -10,7 +13,6 @@ The code provided in the folder demonstrates the generation of the Golay metalen
 
 - Python ≥ 3.8 (3.8.10 used in testing)
 - NumPy ≥ 1.21 (1.24.3 verified)
-- OpenCV ≥ 4.5 (4.9.0 verified)
 - PyTorch ≥ 2.0 (CPU: 2.7.1 verified)
 
 ### Tested Environment
@@ -18,7 +20,6 @@ The code provided in the folder demonstrates the generation of the Golay metalen
 The following specific versions were fully validated:
 - Python 3.8.10
 - NumPy 1.24.3
-- OpenCV 4.9.0 
 - PyTorch (CPU-only) 2.7.1
 
 > **Note**: The code is expected to work with newer versions of these packages. Exact version matching is not required, but significant version differences (e.g., PyTorch 1.x) may cause compatibility issues.
