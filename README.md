@@ -50,3 +50,26 @@ The following specific versions were fully validated:
 
 ## License
 This code is made available for academic and research purposes only. Redistribution or commercial use is not permitted without prior permission from the authors.
+
+## Citation
+
+If you find this repository helpful for your research, please cite:
+
+Wang, J., Wirth-Singh, A., Saragadam, V., Johnson, R., Majumdar, A. and Veeraraghavan, A.  
+**A Golay metalens for long-range, large-aperture, thermal imaging via sparse aperture computational imaging.**  
+*Nature Communications* **16**, 10281 (2025).  
+https://doi.org/10.1038/s41467-025-65188-y
+
+### BibTeX
+
+```bibtex
+@article{wang2025golay,
+  title={A Golay metalens for long-range, large-aperture, thermal imaging via sparse aperture computational imaging},
+  author={Wang, J. and Wirth-Singh, A. and Saragadam, V. and Johnson, R. and Majumdar, A. and Veeraraghavan, A.},
+  journal={Nature Communications},
+  volume={16},
+  pages={10281},
+  year={2025},
+  doi={10.1038/s41467-025-65188-y}
+}
+
